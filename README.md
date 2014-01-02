@@ -1,0 +1,4 @@
+testgit
+=======
+
+For testing EGit
